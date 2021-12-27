@@ -1,0 +1,201 @@
+[Fri Nov 12 11:18:52.646538 2021] [mpm_winnt:notice] [pid 6180:tid 548] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Fri Nov 12 11:18:52.646538 2021] [mpm_winnt:notice] [pid 6180:tid 548] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 12 11:18:52.646538 2021] [core:notice] [pid 6180:tid 548] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Nov 12 11:18:52.647539 2021] [mpm_winnt:notice] [pid 6180:tid 548] AH00418: Parent: Created child process 10648
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10648:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 12 12:19:55.315228 2021] [mpm_winnt:notice] [pid 6180:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 12 12:19:57.325031 2021] [mpm_winnt:notice] [pid 10648:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Nov 12 12:19:57.342333 2021] [mpm_winnt:notice] [pid 6180:tid 548] AH00430: Parent: Child process 10648 exited successfully.
+[Mon Nov 15 15:41:56.795126 2021] [mpm_winnt:notice] [pid 1756:tid 540] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Mon Nov 15 15:41:56.796126 2021] [mpm_winnt:notice] [pid 1756:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Nov 15 15:41:56.796126 2021] [core:notice] [pid 1756:tid 540] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Nov 15 15:41:56.796126 2021] [mpm_winnt:notice] [pid 1756:tid 540] AH00418: Parent: Created child process 11668
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11668:tid 556] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 15 18:12:00.208283 2021] [mpm_winnt:notice] [pid 1756:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 15 18:12:02.225301 2021] [mpm_winnt:notice] [pid 11668:tid 556] AH00364: Child: All worker threads have exited.
+[Mon Nov 15 18:12:02.243807 2021] [mpm_winnt:notice] [pid 1756:tid 540] AH00430: Parent: Child process 11668 exited successfully.
+[Tue Nov 16 01:15:56.536335 2021] [mpm_winnt:notice] [pid 916:tid 528] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Tue Nov 16 01:15:56.536335 2021] [mpm_winnt:notice] [pid 916:tid 528] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 16 01:15:56.536335 2021] [core:notice] [pid 916:tid 528] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Nov 16 01:15:56.537336 2021] [mpm_winnt:notice] [pid 916:tid 528] AH00418: Parent: Created child process 12308
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12308:tid 548] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 16 02:12:08.741106 2021] [mpm_winnt:notice] [pid 916:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 16 02:12:10.750395 2021] [mpm_winnt:notice] [pid 12308:tid 548] AH00364: Child: All worker threads have exited.
+[Tue Nov 16 02:12:10.768176 2021] [mpm_winnt:notice] [pid 916:tid 528] AH00430: Parent: Child process 12308 exited successfully.
+[Tue Nov 16 21:21:13.370732 2021] [mpm_winnt:notice] [pid 8336:tid 524] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Tue Nov 16 21:21:13.371731 2021] [mpm_winnt:notice] [pid 8336:tid 524] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 16 21:21:13.371731 2021] [core:notice] [pid 8336:tid 524] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Nov 16 21:21:13.372733 2021] [mpm_winnt:notice] [pid 8336:tid 524] AH00418: Parent: Created child process 5500
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5500:tid 556] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 16 22:36:10.308637 2021] [mpm_winnt:notice] [pid 8336:tid 524] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 16 22:36:12.314739 2021] [mpm_winnt:notice] [pid 5500:tid 556] AH00364: Child: All worker threads have exited.
+[Tue Nov 16 22:36:12.333041 2021] [mpm_winnt:notice] [pid 8336:tid 524] AH00430: Parent: Child process 5500 exited successfully.
+[Thu Nov 18 11:32:30.650983 2021] [mpm_winnt:notice] [pid 9436:tid 536] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Thu Nov 18 11:32:30.650983 2021] [mpm_winnt:notice] [pid 9436:tid 536] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 18 11:32:30.651983 2021] [core:notice] [pid 9436:tid 536] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Nov 18 11:32:30.651983 2021] [mpm_winnt:notice] [pid 9436:tid 536] AH00418: Parent: Created child process 10200
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10200:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 18 12:49:29.635456 2021] [mpm_winnt:notice] [pid 9436:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 18 12:49:31.642453 2021] [mpm_winnt:notice] [pid 10200:tid 556] AH00364: Child: All worker threads have exited.
+[Thu Nov 18 12:49:31.660501 2021] [mpm_winnt:notice] [pid 9436:tid 536] AH00430: Parent: Child process 10200 exited successfully.
+[Thu Nov 18 15:48:22.581358 2021] [mpm_winnt:notice] [pid 8204:tid 536] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Thu Nov 18 15:48:22.582357 2021] [mpm_winnt:notice] [pid 8204:tid 536] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 18 15:48:22.582357 2021] [core:notice] [pid 8204:tid 536] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Nov 18 15:48:22.583357 2021] [mpm_winnt:notice] [pid 8204:tid 536] AH00418: Parent: Created child process 8144
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8144:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 18 16:45:34.115866 2021] [mpm_winnt:notice] [pid 8204:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 18 16:45:36.129770 2021] [mpm_winnt:notice] [pid 8144:tid 556] AH00364: Child: All worker threads have exited.
+[Thu Nov 18 16:45:36.148121 2021] [mpm_winnt:notice] [pid 8204:tid 536] AH00430: Parent: Child process 8144 exited successfully.
+[Thu Nov 18 17:22:44.186313 2021] [mpm_winnt:notice] [pid 5432:tid 500] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Thu Nov 18 17:22:44.186313 2021] [mpm_winnt:notice] [pid 5432:tid 500] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 18 17:22:44.186313 2021] [core:notice] [pid 5432:tid 500] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Nov 18 17:22:44.187312 2021] [mpm_winnt:notice] [pid 5432:tid 500] AH00418: Parent: Created child process 3984
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3984:tid 560] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 18 18:48:59.087928 2021] [mpm_winnt:notice] [pid 5432:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 18 18:49:01.114598 2021] [mpm_winnt:notice] [pid 3984:tid 560] AH00364: Child: All worker threads have exited.
+[Thu Nov 18 18:49:01.132198 2021] [mpm_winnt:notice] [pid 5432:tid 500] AH00430: Parent: Child process 3984 exited successfully.
+[Thu Nov 18 21:11:50.516388 2021] [mpm_winnt:notice] [pid 5748:tid 540] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Thu Nov 18 21:11:50.517388 2021] [mpm_winnt:notice] [pid 5748:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 18 21:11:50.517388 2021] [core:notice] [pid 5748:tid 540] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Nov 18 21:11:50.517388 2021] [mpm_winnt:notice] [pid 5748:tid 540] AH00418: Parent: Created child process 7440
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7440:tid 612] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 18 21:21:55.084256 2021] [mpm_winnt:notice] [pid 5748:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 18 21:21:57.112146 2021] [mpm_winnt:notice] [pid 7440:tid 612] AH00364: Child: All worker threads have exited.
+[Thu Nov 18 21:21:57.131152 2021] [mpm_winnt:notice] [pid 5748:tid 540] AH00430: Parent: Child process 7440 exited successfully.
+[Thu Nov 18 21:21:59.207435 2021] [mpm_winnt:notice] [pid 5624:tid 540] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Thu Nov 18 21:21:59.207435 2021] [mpm_winnt:notice] [pid 5624:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 18 21:21:59.207435 2021] [core:notice] [pid 5624:tid 540] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Nov 18 21:21:59.208433 2021] [mpm_winnt:notice] [pid 5624:tid 540] AH00418: Parent: Created child process 4356
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4356:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 18 21:24:41.353105 2021] [mpm_winnt:notice] [pid 5624:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 18 21:24:43.380107 2021] [mpm_winnt:notice] [pid 4356:tid 556] AH00364: Child: All worker threads have exited.
+[Thu Nov 18 21:24:43.398106 2021] [mpm_winnt:notice] [pid 5624:tid 540] AH00430: Parent: Child process 4356 exited successfully.
+[Fri Nov 19 11:49:07.244773 2021] [mpm_winnt:notice] [pid 9656:tid 536] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Fri Nov 19 11:49:07.244773 2021] [mpm_winnt:notice] [pid 9656:tid 536] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 19 11:49:07.244773 2021] [core:notice] [pid 9656:tid 536] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Nov 19 11:49:07.245774 2021] [mpm_winnt:notice] [pid 9656:tid 536] AH00418: Parent: Created child process 6752
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6752:tid 564] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 19 22:04:24.720437 2021] [mpm_winnt:notice] [pid 9656:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 19 22:04:26.746276 2021] [mpm_winnt:notice] [pid 6752:tid 564] AH00364: Child: All worker threads have exited.
+[Fri Nov 19 22:04:26.780196 2021] [mpm_winnt:notice] [pid 9656:tid 536] AH00430: Parent: Child process 6752 exited successfully.
+[Sat Nov 20 11:23:45.928011 2021] [mpm_winnt:notice] [pid 1160:tid 536] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sat Nov 20 11:23:45.928011 2021] [mpm_winnt:notice] [pid 1160:tid 536] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 20 11:23:45.928011 2021] [core:notice] [pid 1160:tid 536] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Nov 20 11:23:45.929011 2021] [mpm_winnt:notice] [pid 1160:tid 536] AH00418: Parent: Created child process 2116
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2116:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 20 15:48:11.788199 2021] [mpm_winnt:notice] [pid 1160:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 20 15:48:13.813842 2021] [mpm_winnt:notice] [pid 2116:tid 556] AH00364: Child: All worker threads have exited.
+[Sat Nov 20 15:48:13.833501 2021] [mpm_winnt:notice] [pid 1160:tid 536] AH00430: Parent: Child process 2116 exited successfully.
+[Sun Nov 21 17:40:06.655647 2021] [mpm_winnt:notice] [pid 1468:tid 504] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 21 17:40:06.656649 2021] [mpm_winnt:notice] [pid 1468:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 17:40:06.656649 2021] [core:notice] [pid 1468:tid 504] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 21 17:40:06.657648 2021] [mpm_winnt:notice] [pid 1468:tid 504] AH00418: Parent: Created child process 7536
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7536:tid 512] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 18:22:35.802028 2021] [php:error] [pid 7536:tid 1096] [client 127.0.0.1:61493] script 'C:/localhost/diagram.php' not found or unable to stat
+[Sun Nov 21 20:22:10.877799 2021] [mpm_winnt:notice] [pid 1468:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 21 20:22:18.708916 2021] [core:warn] [pid 9888:tid 496] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 21 20:22:18.713822 2021] [mpm_winnt:notice] [pid 9888:tid 496] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 21 20:22:18.713822 2021] [mpm_winnt:notice] [pid 9888:tid 496] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 20:22:18.713822 2021] [core:notice] [pid 9888:tid 496] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 21 20:22:18.713822 2021] [mpm_winnt:notice] [pid 9888:tid 496] AH00418: Parent: Created child process 11912
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11912:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 20:22:45.526621 2021] [mpm_winnt:notice] [pid 7536:tid 512] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Sun Nov 21 20:22:50.979433 2021] [mpm_winnt:notice] [pid 7536:tid 512] AH00364: Child: All worker threads have exited.
+[Sun Nov 21 20:41:08.429833 2021] [mpm_winnt:notice] [pid 9888:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 21 20:41:10.441949 2021] [mpm_winnt:notice] [pid 11912:tid 556] AH00364: Child: All worker threads have exited.
+[Sun Nov 21 20:41:10.459940 2021] [mpm_winnt:notice] [pid 9888:tid 496] AH00430: Parent: Child process 11912 exited successfully.
+[Sun Nov 21 20:41:11.969260 2021] [mpm_winnt:notice] [pid 10652:tid 556] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 21 20:41:11.969260 2021] [mpm_winnt:notice] [pid 10652:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 20:41:11.969260 2021] [core:notice] [pid 10652:tid 556] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 21 20:41:11.969260 2021] [mpm_winnt:notice] [pid 10652:tid 556] AH00418: Parent: Created child process 8000
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8000:tid 552] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 20:44:23.097424 2021] [mpm_winnt:notice] [pid 10652:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 21 20:44:25.120510 2021] [mpm_winnt:notice] [pid 8000:tid 552] AH00364: Child: All worker threads have exited.
+[Sun Nov 21 20:44:25.139376 2021] [mpm_winnt:notice] [pid 10652:tid 556] AH00430: Parent: Child process 8000 exited successfully.
+[Sun Nov 21 23:13:18.338417 2021] [mpm_winnt:notice] [pid 2060:tid 540] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 21 23:13:18.339417 2021] [mpm_winnt:notice] [pid 2060:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 23:13:18.339417 2021] [core:notice] [pid 2060:tid 540] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 21 23:13:18.340417 2021] [mpm_winnt:notice] [pid 2060:tid 540] AH00418: Parent: Created child process 10852
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10852:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 23:27:59.983161 2021] [mpm_winnt:notice] [pid 2060:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 21 23:28:06.338980 2021] [core:warn] [pid 9612:tid 504] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 21 23:28:06.343002 2021] [mpm_winnt:notice] [pid 9612:tid 504] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 21 23:28:06.343002 2021] [mpm_winnt:notice] [pid 9612:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 23:28:06.343002 2021] [core:notice] [pid 9612:tid 504] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 21 23:28:06.344005 2021] [mpm_winnt:notice] [pid 9612:tid 504] AH00418: Parent: Created child process 7944
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7944:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 23:28:34.606980 2021] [mpm_winnt:notice] [pid 10852:tid 556] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Sun Nov 21 23:28:47.238779 2021] [mpm_winnt:notice] [pid 10852:tid 556] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 00:08:48.502801 2021] [mpm_winnt:notice] [pid 9612:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 22 00:08:50.517144 2021] [mpm_winnt:notice] [pid 7944:tid 568] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 00:08:50.536297 2021] [mpm_winnt:notice] [pid 9612:tid 504] AH00430: Parent: Child process 7944 exited successfully.
+[Mon Nov 22 13:09:02.054513 2021] [mpm_winnt:notice] [pid 10884:tid 536] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Mon Nov 22 13:09:02.055513 2021] [mpm_winnt:notice] [pid 10884:tid 536] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Nov 22 13:09:02.055513 2021] [core:notice] [pid 10884:tid 536] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Nov 22 13:09:02.055513 2021] [mpm_winnt:notice] [pid 10884:tid 536] AH00418: Parent: Created child process 5256
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5256:tid 556] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 22 13:25:51.373383 2021] [mpm_winnt:notice] [pid 10884:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 22 13:25:53.390402 2021] [mpm_winnt:notice] [pid 5256:tid 556] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 13:25:53.408445 2021] [mpm_winnt:notice] [pid 10884:tid 536] AH00430: Parent: Child process 5256 exited successfully.
+[Mon Nov 22 13:25:55.872367 2021] [mpm_winnt:notice] [pid 4100:tid 552] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Mon Nov 22 13:25:55.872367 2021] [mpm_winnt:notice] [pid 4100:tid 552] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Nov 22 13:25:55.872367 2021] [core:notice] [pid 4100:tid 552] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Nov 22 13:25:55.873354 2021] [mpm_winnt:notice] [pid 4100:tid 552] AH00418: Parent: Created child process 7132
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7132:tid 552] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 22 13:26:32.843811 2021] [mpm_winnt:notice] [pid 4100:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 22 13:26:34.873404 2021] [mpm_winnt:notice] [pid 7132:tid 552] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 13:26:34.891026 2021] [mpm_winnt:notice] [pid 4100:tid 552] AH00430: Parent: Child process 7132 exited successfully.
+[Mon Nov 22 13:26:50.172681 2021] [mpm_winnt:notice] [pid 6268:tid 544] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Mon Nov 22 13:26:50.172681 2021] [mpm_winnt:notice] [pid 6268:tid 544] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Nov 22 13:26:50.172681 2021] [core:notice] [pid 6268:tid 544] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Nov 22 13:26:50.173652 2021] [mpm_winnt:notice] [pid 6268:tid 544] AH00418: Parent: Created child process 3008
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3008:tid 556] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 22 16:54:57.493415 2021] [mpm_winnt:notice] [pid 6268:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 22 16:54:59.509351 2021] [mpm_winnt:notice] [pid 3008:tid 556] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 16:54:59.526990 2021] [mpm_winnt:notice] [pid 6268:tid 544] AH00430: Parent: Child process 3008 exited successfully.
+[Tue Nov 23 17:06:50.629975 2021] [mpm_winnt:notice] [pid 10088:tid 556] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Tue Nov 23 17:06:50.630969 2021] [mpm_winnt:notice] [pid 10088:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 23 17:06:50.630969 2021] [core:notice] [pid 10088:tid 556] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Nov 23 17:06:50.631966 2021] [mpm_winnt:notice] [pid 10088:tid 556] AH00418: Parent: Created child process 6516
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6516:tid 576] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 23 17:24:30.220716 2021] [mpm_winnt:notice] [pid 10088:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 23 17:24:32.236855 2021] [mpm_winnt:notice] [pid 6516:tid 576] AH00364: Child: All worker threads have exited.
+[Tue Nov 23 17:24:32.254937 2021] [mpm_winnt:notice] [pid 10088:tid 556] AH00430: Parent: Child process 6516 exited successfully.
+[Sun Nov 28 19:33:21.750780 2021] [mpm_winnt:notice] [pid 4764:tid 544] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Sun Nov 28 19:33:21.750780 2021] [mpm_winnt:notice] [pid 4764:tid 544] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 28 19:33:21.750780 2021] [core:notice] [pid 4764:tid 544] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 28 19:33:21.751781 2021] [mpm_winnt:notice] [pid 4764:tid 544] AH00418: Parent: Created child process 724
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 724:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 28 20:04:15.663827 2021] [mpm_winnt:notice] [pid 4764:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 28 20:04:17.691302 2021] [mpm_winnt:notice] [pid 724:tid 556] AH00364: Child: All worker threads have exited.
+[Sun Nov 28 20:04:17.709119 2021] [mpm_winnt:notice] [pid 4764:tid 544] AH00430: Parent: Child process 724 exited successfully.
+[Fri Dec 03 12:28:11.516204 2021] [mpm_winnt:notice] [pid 11920:tid 548] AH00455: Apache/2.4.51 (Win64) PHP/8.0.12 configured -- resuming normal operations
+[Fri Dec 03 12:28:11.517237 2021] [mpm_winnt:notice] [pid 11920:tid 548] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 03 12:28:11.517237 2021] [core:notice] [pid 11920:tid 548] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Dec 03 12:28:11.518237 2021] [mpm_winnt:notice] [pid 11920:tid 548] AH00418: Parent: Created child process 6912
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6912:tid 468] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 03 13:09:20.550679 2021] [mpm_winnt:notice] [pid 11920:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 03 13:09:22.571684 2021] [mpm_winnt:notice] [pid 6912:tid 468] AH00364: Child: All worker threads have exited.
+[Fri Dec 03 13:09:22.590530 2021] [mpm_winnt:notice] [pid 11920:tid 548] AH00430: Parent: Child process 6912 exited successfully.
