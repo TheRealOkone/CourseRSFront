@@ -7,39 +7,40 @@
 <body>
 <div>
 <ul id="navbar">
-<li><a href="http://localhost/index.php">Выбор диаграммы</a></li>
-<li><a href="http://localhost/diagram.php">Отображение диаграммы</a></li>
-<li><a href="http://localhost/about.html">О нас</a></li>
+<li><a href="/index.php">Выбор диаграммы</a></li>
+<li><a href="/diagram.php">Отображение диаграммы</a></li>
+<li><a href="/about.html">О нас</a></li>
 </ul>
 </div>
 <div id="hparent">
 
 <?php
 
-$sURL = "http://root:root@localhost:8080/api/v1/jsondiag";
-$sPD = "";
-$aHTTP = array(
-  'http' =>
-    array(
-    'method'  => 'GET',
-    'header'  => 'Content-type: application/x-www-form-urlencoded',
-    'content' => $sPD
-  )
-);
-$context = stream_context_create($aHTTP);
-$handle = fopen($sURL, 'r', false, $context);
-$contents = '';
-while (!feof($handle)) {
-  $contents .= fread($handle, 8192);
-}
-fclose($handle);
+$sURL = "http://root:root@coursersback.herokuapp.com/api/v1/jsondiag";
+// $sPD = "";
+// $aHTTP = array(
+  // 'http' =>
+    // array(
+    // 'method'  => 'GET',
+    // 'header'  => 'Content-type: application/x-www-form-urlencoded',
+    // 'content' => $sPD
+  // )
+// );
 
+// $context = stream_context_create($aHTTP);
+// $handle = fopen($sURL, 'r', false, $context);
+// $contents = '';
+// while (!feof($handle)) {
+  // $contents .= fread($handle, 8192);
+// }
+// fclose($handle);
+$contents = file_get_contents($sURL);
 $array = json_decode($contents);
 
 echo('<ul id="flopbar">');
 
 foreach ($array as $value) {
-	echo('<li><a href="http://localhost/diagram.php?diag='.$value->id.'">Загрузить диаграмму №'.$value->id.'</a></li>');
+	echo('<li><a href="/diagram.php?diag='.$value->id.'">Загрузить диаграмму №'.$value->id.'</a></li>');
 }
 
 echo('</ul>');
@@ -63,9 +64,9 @@ echo('</ul>');
         </div>
         <div class="footer-nav">
             <ul>
-<li><a href="http://localhost/index.php">Выбор диаграммы</a></li>
-<li><a href="http://localhost/diagram.php">Отображение диаграммы</a></li>
-<li><a href="http://localhost/about.html">О нас</a></li>
+<li><a href="/index.php">Выбор диаграммы</a></li>
+<li><a href="/diagram.php">Отображение диаграммы</a></li>
+<li><a href="/about.html">О нас</a></li>
             </ul>
         </div>
         <div class="footer-contact">

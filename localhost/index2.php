@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <script src='/arrows.1.0.0.js' type='text/javascript'></script>
@@ -14,24 +15,26 @@ if(isset($_GET["diag"])){
 }
 
 
-$sURL = "http://root:root@localhost:8080/api/v1/json?diagram=".$diag;
-$sPD = "";
-$aHTTP = array(
-  'http' => 
-    array(
-    'method'  => 'GET',
-    'header'  => 'Content-type: application/x-www-form-urlencoded',
-    'content' => $sPD
-  )
-);
-$context = stream_context_create($aHTTP);
-$handle = fopen($sURL, 'r', false, $context);
-$contents = '';
-while (!feof($handle)) {
-  $contents .= fread($handle, 8192);
-}
-fclose($handle);
-
+$sURL = "http://root:root@coursersback.herokuapp.com/api/v1/json?diagram=".$diag;
+// $sPD = "";
+// $aHTTP = array(
+  // 'http' => 
+    // array(
+    // 'method'  => 'GET',
+    // 'header'  => 'Content-type: application/x-www-form-urlencoded',
+    // 'content' => $sPD
+  // )
+// );
+// $context = stream_context_create($aHTTP);
+// $handle = fopen($sURL, 'r', false, $context);
+// $contents = '';
+// while (!feof($handle)) {
+  // $contents .= fread($handle, 8192);
+// }
+// fclose($handle);
+$contents = file_get_contents($sURL);
+echo("<script>console.log('PHP: ".$sURL."');</script>");
+echo("<script>console.log('PHP: ".$contents."');</script>");
 $array = json_decode($contents);
 
 echo '<div id="parent" style=" text-align: center;">';

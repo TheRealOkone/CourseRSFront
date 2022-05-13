@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta content="text/html;" charset="utf-8">
@@ -7,9 +8,9 @@
 <body>
 <div>
 <ul id="navbar">
-<li><a href="http://localhost/index.php">Выбор диаграммы</a></li>
-<li><a href="http://localhost/index.php">Отображение диаграммы</a></li>
-<li><a href="http://localhost/about.html">О нас</a></li>
+<li><a href="/index.php">Выбор диаграммы</a></li>
+<li><a href="/diagram.php">Отображение диаграммы</a></li>
+<li><a href="/about.html">О нас</a></li>
 </ul>
 </div>
 <div id="hparent">
@@ -22,7 +23,7 @@ if(isset($_GET["diag"])){
 }
 
 echo('
- <iframe src="index2.php?diag='.$diag.'" width="100%" height="600" align="center">
+ <iframe src="/index2.php?diag='.$diag.'" width="100%" height="600" align="center">
     Ваш браузер не поддерживает плавающие фреймы!
  </iframe>');
  ?>
@@ -44,9 +45,9 @@ echo('
         </div>
         <div class="footer-nav">
             <ul>
-<li><a href="http://localhost/index.php">Выбор диаграммы</a></li>
-<li><a href="http://localhost/diagram.php">Отображение диаграммы</a></li>
-<li><a href="http://localhost/about.html">О нас</a></li>
+<li><a href="/index.php">Выбор диаграммы</a></li>
+<li><a href="/diagram.php">Отображение диаграммы</a></li>
+<li><a href="/about.html">О нас</a></li>
             </ul>
         </div>
         <div class="footer-contact">
